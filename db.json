@@ -1,0 +1,121 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pizza 3 Queijos",
+      "precio": 18,
+      "ingredientes": "Queijo, requeijão, oregano e parmesão ralado.",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Pizza Calabresa",
+      "precio": 18,
+      "ingredientes": "Queijo, calabresa e cebola, oregano.",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Pizza de Queijo",
+      "precio": 16,
+      "ingredientes": "Queijo e orégano.",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "nombre": "Pizza Napolitana",
+      "precio": 18,
+      "ingredientes": "Queijo, tomate, oregano e parmesão ralado.",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "nombre": "Pizza Pepperrock 2.0",
+      "precio": 20,
+      "ingredientes": "Queijo, pepperoni, azeitona preta, parmesão ralado, oregano, Cream Cheese.",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Pizza Portuguesa",
+      "precio": 20,
+      "ingredientes": "Queijo, presunto, ovo de codorna, azeitona preta, cebola, oregano e pimentão verde.",
+      "url": ""
+    }
+  ],
+  "mesas": [
+    {
+      "id": 1,
+      "capacidad": 4,
+      "reservada": "false"
+    },
+    {
+      "id": 2,
+      "capacidad": 4,
+      "reservada": "false"
+    },
+    {
+      "id": 3,
+      "capacidad": 4,
+      "reservada": "false"
+    },
+    {
+      "id": 4,
+      "capacidad": 4,
+      "reservada": "false"
+    },
+    {
+      "id": 5,
+      "capacidad": 4,
+      "reservada": "false"
+    },
+    {
+      "id": 6,
+      "capacidad": 4,
+      "reservada": "false"
+    },
+    {
+      "id": 7,
+      "capacidad": 8,
+      "reservada": "false"
+    },
+    {
+      "id": 8,
+      "capacidad": 8,
+      "reservada": "false"
+    },
+    {
+      "id": 9,
+      "capacidad": 8,
+      "reservada": "false"
+    },
+    {
+      "id": 10,
+      "capacidad": 8,
+      "reservada": "false"
+    }
+  ],
+  "resetas": [],
+  "cocineros": [
+    {
+      "id": 1,
+      "nombre": "Juan Pablo Urgelles",
+      "instagram": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Violeta Garrido",
+      "instagram": ""
+    },
+    {
+      "id": 1,
+      "nombre": "Arai Padilla",
+      "instagram": ""
+    },
+    {
+      "id": 1,
+      "nombre": "Ernesto Chavez",
+      "instagram": ""
+    }
+  ]
+}
