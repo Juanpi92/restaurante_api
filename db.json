@@ -99,22 +99,22 @@
     {
       "id": 1,
       "nombre": "Juan Pablo Urgelles",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/juanpi92"
     },
     {
       "id": 2,
       "nombre": "Violeta Garrido",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/violeta.garrido"
     },
     {
-      "id": 1,
+      "id": 3,
       "nombre": "Arai Padilla",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/arai.baracoa"
     },
     {
-      "id": 1,
+      "id": 4,
       "nombre": "Ernesto Chavez",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/chaves1995"
     }
   ]
 }
